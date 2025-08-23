@@ -1,1 +1,7 @@
+
 "Initial"
+
+• Blur is working fine.
+• Fixed the bug in which the device forgets orientation after locking the device.
+• Fixed (Dolby app crashes if turned off dolby from QS and then opens the app from the drawer. Will see next time😶‍🌫️)
+• Fixed a bug in which you can't open qs fully from notification panel space
