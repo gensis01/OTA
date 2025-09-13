@@ -7,11 +7,12 @@
 • Fixed a bug in which you can't open qs fully from notification panel space
 
 
-## Date 09/09/2025 ##
+## Date 13/09/2025 ##
 • Updated to infx 3.2
-• Set default refresh rate to 144hz
-• Fixed dolby profiles keep resetting 
+• Shifted to sukisu ultra
+• Fixed dolby profiles keep resetting prblm
 • Increased volume output
-• Ksu-next (1.0.9v)
+
+
 
 
