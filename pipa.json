@@ -1,12 +1,12 @@
 {
-  "response": [
-    {
-      "filename": "Project_Infinity-X-3.2-pipa-20250909-1923-GAPPS-UNOFFICIAL.zip",
-      "download": "https://sourceforge.net/projects/evox-ota/files/Project_Infinity-X-3.2-pipa-20250909-1923-GAPPS-UNOFFICIAL.zip",
-      "timestamp": 1757403439,
-      "md5": "6b1e4389968be4402065448931bf7421",
-      "size": 1974033684,
-      "version": "Project_Infinity-X-3.2-pipa-20250909-1923-GAPPS-UNOFFICIAL.zip"
-    }
-  ]
+	"response": [
+		{
+			"filename": "Project_Infinity-X-3.2-pipa-20251002-0541.zip",
+			"download": "https://sourceforge.net/projects/evox-ota/files/pipa/Project_Infinity-X-3.2-pipa-20251002-0541.zip",
+			"timestamp": 1759383708,
+			"md5": "b0b08ba4479d40b42d4c5e99a1a83094",
+			"size": 1981483193,
+			"version": "3.2"
+		}
+	]
 }
